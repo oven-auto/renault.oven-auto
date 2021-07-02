@@ -1,0 +1,39 @@
+.index-table{
+	vertical-align: middle;
+}
+
+.bg-light-grey{
+	background: #ddd;	
+}
+
+.color-icon{
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+	box-shadow: 0 5px 5px #666;
+	margin-left: auto;
+	margin-right:auto;
+}
+.color-wraper{
+	border-radius: 10px;
+	padding-left: 10px; 
+	padding-right: 10px;
+}
+.color-wraper{
+	cursor: pointer;
+}
+.color-wraper a{
+	color: #333;
+}
+.color-wraper a:hover{
+	text-decoration: none;
+}
+.color-wraper:hover{
+	background: #eee;
+}
+.gray-wrapper{
+	background: #ccc;
+}
+.modal-big{
+	max-width: 1200px;
+}
